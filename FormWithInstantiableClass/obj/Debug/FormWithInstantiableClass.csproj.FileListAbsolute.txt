@@ -1,0 +1,9 @@
+C:\Users\harri\OneDrive\Desktop\C#FA20\FormWithInstantiableClass\obj\Debug\FormWithInstantiableClass.csprojAssemblyReference.cache
+C:\Users\harri\OneDrive\Desktop\C#FA20\FormWithInstantiableClass\obj\Debug\FormWithInstantiableClass.Properties.Resources.resources
+C:\Users\harri\OneDrive\Desktop\C#FA20\FormWithInstantiableClass\obj\Debug\FormWithInstantiableClass.csproj.GenerateResource.cache
+C:\Users\harri\OneDrive\Desktop\C#FA20\FormWithInstantiableClass\obj\Debug\FormWithInstantiableClass.csproj.CoreCompileInputs.cache
+C:\Users\harri\OneDrive\Desktop\C#FA20\FormWithInstantiableClass\bin\Debug\FormWithInstantiableClass.exe.config
+C:\Users\harri\OneDrive\Desktop\C#FA20\FormWithInstantiableClass\bin\Debug\FormWithInstantiableClass.exe
+C:\Users\harri\OneDrive\Desktop\C#FA20\FormWithInstantiableClass\bin\Debug\FormWithInstantiableClass.pdb
+C:\Users\harri\OneDrive\Desktop\C#FA20\FormWithInstantiableClass\obj\Debug\FormWithInstantiableClass.exe
+C:\Users\harri\OneDrive\Desktop\C#FA20\FormWithInstantiableClass\obj\Debug\FormWithInstantiableClass.pdb

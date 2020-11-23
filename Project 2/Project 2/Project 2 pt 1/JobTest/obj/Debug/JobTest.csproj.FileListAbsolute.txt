@@ -1,0 +1,17 @@
+C:\Users\harri\OneDrive\Desktop\C#FA20\Project 2\Project 2\Project 2 pt 1\JobTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\harri\OneDrive\Desktop\C#FA20\Project 2\Project 2\Project 2 pt 1\JobTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\harri\OneDrive\Desktop\C#FA20\Project 2\Project 2\Project 2 pt 1\JobTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\harri\OneDrive\Desktop\C#FA20\Project 2\Project 2\Project 2 pt 1\JobTest\bin\Debug\JobTest.dll
+C:\Users\harri\OneDrive\Desktop\C#FA20\Project 2\Project 2\Project 2 pt 1\JobTest\bin\Debug\JobTest.pdb
+C:\Users\harri\OneDrive\Desktop\C#FA20\Project 2\Project 2\Project 2 pt 1\JobTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\harri\OneDrive\Desktop\C#FA20\Project 2\Project 2\Project 2 pt 1\JobTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\harri\OneDrive\Desktop\C#FA20\Project 2\Project 2\Project 2 pt 1\JobTest\bin\Debug\Project 2 pt 1.exe
+C:\Users\harri\OneDrive\Desktop\C#FA20\Project 2\Project 2\Project 2 pt 1\JobTest\bin\Debug\Project 2 pt 1.pdb
+C:\Users\harri\OneDrive\Desktop\C#FA20\Project 2\Project 2\Project 2 pt 1\JobTest\bin\Debug\Project 2 pt 1.exe.config
+C:\Users\harri\OneDrive\Desktop\C#FA20\Project 2\Project 2\Project 2 pt 1\JobTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\harri\OneDrive\Desktop\C#FA20\Project 2\Project 2\Project 2 pt 1\JobTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\harri\OneDrive\Desktop\C#FA20\Project 2\Project 2\Project 2 pt 1\JobTest\obj\Debug\JobTest.csprojAssemblyReference.cache
+C:\Users\harri\OneDrive\Desktop\C#FA20\Project 2\Project 2\Project 2 pt 1\JobTest\obj\Debug\JobTest.csproj.CoreCompileInputs.cache
+C:\Users\harri\OneDrive\Desktop\C#FA20\Project 2\Project 2\Project 2 pt 1\JobTest\obj\Debug\JobTest.csproj.CopyComplete
+C:\Users\harri\OneDrive\Desktop\C#FA20\Project 2\Project 2\Project 2 pt 1\JobTest\obj\Debug\JobTest.dll
+C:\Users\harri\OneDrive\Desktop\C#FA20\Project 2\Project 2\Project 2 pt 1\JobTest\obj\Debug\JobTest.pdb

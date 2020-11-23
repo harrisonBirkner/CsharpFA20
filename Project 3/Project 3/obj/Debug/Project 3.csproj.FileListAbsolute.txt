@@ -1,0 +1,11 @@
+C:\Users\harri\OneDrive\Desktop\C#FA20\Project 3\Project 3\bin\Debug\Project 3.exe.config
+C:\Users\harri\OneDrive\Desktop\C#FA20\Project 3\Project 3\bin\Debug\Project 3.exe
+C:\Users\harri\OneDrive\Desktop\C#FA20\Project 3\Project 3\bin\Debug\Project 3.pdb
+C:\Users\harri\OneDrive\Desktop\C#FA20\Project 3\Project 3\obj\Debug\Project 3.csprojAssemblyReference.cache
+C:\Users\harri\OneDrive\Desktop\C#FA20\Project 3\Project 3\obj\Debug\Project_3.Display.resources
+C:\Users\harri\OneDrive\Desktop\C#FA20\Project 3\Project 3\obj\Debug\Project_3.Properties.Resources.resources
+C:\Users\harri\OneDrive\Desktop\C#FA20\Project 3\Project 3\obj\Debug\Project 3.csproj.GenerateResource.cache
+C:\Users\harri\OneDrive\Desktop\C#FA20\Project 3\Project 3\obj\Debug\Project 3.csproj.CoreCompileInputs.cache
+C:\Users\harri\OneDrive\Desktop\C#FA20\Project 3\Project 3\obj\Debug\Project 3.exe
+C:\Users\harri\OneDrive\Desktop\C#FA20\Project 3\Project 3\obj\Debug\Project 3.pdb
+C:\Users\harri\OneDrive\Desktop\C#FA20\Project 3\Project 3\obj\Debug\Project_3.MainForm.resources

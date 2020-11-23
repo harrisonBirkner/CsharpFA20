@@ -1,0 +1,13 @@
+C:\Users\harri\OneDrive\Desktop\C#FA20\Project 5\Project 5\bin\Debug\Project 5.exe.config
+C:\Users\harri\OneDrive\Desktop\C#FA20\Project 5\Project 5\bin\Debug\Project 5.exe
+C:\Users\harri\OneDrive\Desktop\C#FA20\Project 5\Project 5\bin\Debug\Project 5.pdb
+C:\Users\harri\OneDrive\Desktop\C#FA20\Project 5\Project 5\obj\Debug\Project 5.csprojAssemblyReference.cache
+C:\Users\harri\OneDrive\Desktop\C#FA20\Project 5\Project 5\obj\Debug\Project_5.AddForm.resources
+C:\Users\harri\OneDrive\Desktop\C#FA20\Project 5\Project 5\obj\Debug\Project_5.ChangeForm.resources
+C:\Users\harri\OneDrive\Desktop\C#FA20\Project 5\Project 5\obj\Debug\Project_5.MainForm.resources
+C:\Users\harri\OneDrive\Desktop\C#FA20\Project 5\Project 5\obj\Debug\Project_5.Properties.Resources.resources
+C:\Users\harri\OneDrive\Desktop\C#FA20\Project 5\Project 5\obj\Debug\Project 5.csproj.GenerateResource.cache
+C:\Users\harri\OneDrive\Desktop\C#FA20\Project 5\Project 5\obj\Debug\Project 5.csproj.CoreCompileInputs.cache
+C:\Users\harri\OneDrive\Desktop\C#FA20\Project 5\Project 5\obj\Debug\Project 5.exe
+C:\Users\harri\OneDrive\Desktop\C#FA20\Project 5\Project 5\obj\Debug\Project 5.pdb
+C:\Users\harri\OneDrive\Desktop\C#FA20\Project 5\Project 5\obj\Debug\Project_5.Forms.AssignmentsForm.resources

@@ -1,0 +1,12 @@
+C:\Users\harri\OneDrive\Desktop\C#FA20\Project 4\Project 4\bin\Debug\Project 4.exe.config
+C:\Users\harri\OneDrive\Desktop\C#FA20\Project 4\Project 4\bin\Debug\Project 4.exe
+C:\Users\harri\OneDrive\Desktop\C#FA20\Project 4\Project 4\bin\Debug\Project 4.pdb
+C:\Users\harri\OneDrive\Desktop\C#FA20\Project 4\Project 4\obj\Debug\Project 4.csprojAssemblyReference.cache
+C:\Users\harri\OneDrive\Desktop\C#FA20\Project 4\Project 4\obj\Debug\Project_4.AddForm.resources
+C:\Users\harri\OneDrive\Desktop\C#FA20\Project 4\Project 4\obj\Debug\Project_4.MainForm.resources
+C:\Users\harri\OneDrive\Desktop\C#FA20\Project 4\Project 4\obj\Debug\Project_4.Properties.Resources.resources
+C:\Users\harri\OneDrive\Desktop\C#FA20\Project 4\Project 4\obj\Debug\Project 4.csproj.GenerateResource.cache
+C:\Users\harri\OneDrive\Desktop\C#FA20\Project 4\Project 4\obj\Debug\Project 4.csproj.CoreCompileInputs.cache
+C:\Users\harri\OneDrive\Desktop\C#FA20\Project 4\Project 4\obj\Debug\Project 4.exe
+C:\Users\harri\OneDrive\Desktop\C#FA20\Project 4\Project 4\obj\Debug\Project 4.pdb
+C:\Users\harri\OneDrive\Desktop\C#FA20\Project 4\Project 4\obj\Debug\Project_4.ChangeForm.resources

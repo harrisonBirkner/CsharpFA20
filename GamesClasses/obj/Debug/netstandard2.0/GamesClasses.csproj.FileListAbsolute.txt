@@ -1,0 +1,9 @@
+C:\Users\harri\OneDrive\Desktop\C#FA20\GamesClasses\bin\Debug\netstandard2.0\GamesClasses.deps.json
+C:\Users\harri\OneDrive\Desktop\C#FA20\GamesClasses\bin\Debug\netstandard2.0\GamesClasses.dll
+C:\Users\harri\OneDrive\Desktop\C#FA20\GamesClasses\bin\Debug\netstandard2.0\GamesClasses.pdb
+C:\Users\harri\OneDrive\Desktop\C#FA20\GamesClasses\obj\Debug\netstandard2.0\GamesClasses.csprojAssemblyReference.cache
+C:\Users\harri\OneDrive\Desktop\C#FA20\GamesClasses\obj\Debug\netstandard2.0\GamesClasses.AssemblyInfoInputs.cache
+C:\Users\harri\OneDrive\Desktop\C#FA20\GamesClasses\obj\Debug\netstandard2.0\GamesClasses.AssemblyInfo.cs
+C:\Users\harri\OneDrive\Desktop\C#FA20\GamesClasses\obj\Debug\netstandard2.0\GamesClasses.csproj.CoreCompileInputs.cache
+C:\Users\harri\OneDrive\Desktop\C#FA20\GamesClasses\obj\Debug\netstandard2.0\GamesClasses.dll
+C:\Users\harri\OneDrive\Desktop\C#FA20\GamesClasses\obj\Debug\netstandard2.0\GamesClasses.pdb
